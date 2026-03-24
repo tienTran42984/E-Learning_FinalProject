@@ -9,7 +9,7 @@ const pageTitle = document.getElementById("pageTitle")
 const logoutBtn = document.getElementById("logoutBtn")
 const userEmail = document.getElementById("userEmail")
 
-const courses = JSON.parse(localStorage.getItem("courses"))
+const courses = JSON.parse(localStorage.getItem("course"))
 
 const loginUser = JSON.parse(localStorage.getItem("loginUser"))
 const employee = JSON.parse(localStorage.getItem("employees")) || [];
