@@ -13,7 +13,7 @@ const coursesData = [
     },
     {
         id: 2,
-        title: "UI/UX Design Fundamentals",
+        title: "UI/UX Design Fundamental",
         instructor: "Emma Brown",
         category: "Design",
         level: "Intermediate",
