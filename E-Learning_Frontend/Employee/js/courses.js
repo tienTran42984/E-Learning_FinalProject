@@ -12,7 +12,7 @@ const courses = [
     {
         id: "C002",
         title: "Web Development with JavaScript",
-        description: "Learn HTML, CSS, and JavaScript fundamentals.",
+        description: "Learn HTML, CSS, and JavaScript fundamentals and basic.",
         price: 149,
         status: "Unavailable",
         instructorId: "INS-001"
